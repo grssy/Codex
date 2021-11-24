@@ -2,8 +2,9 @@
 	Codex - Unicamp
 </h1>
 
-
-<img align="center" src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"/>
+<div align="center">
+	<img align="center" src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"/>
+</div>
 
 
 <p align="center">
