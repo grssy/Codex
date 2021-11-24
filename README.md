@@ -1,9 +1,9 @@
 <h1 align="center"> 
-	Codex 
+	Codex - Unicamp
 </h1>
 
 
-<img src="https://saneamentobasico.com.br/wp-content/uploads/2021/04/logo-site-codex.jpg"/>
+<img src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"/>
 
 
 <p align="center">
