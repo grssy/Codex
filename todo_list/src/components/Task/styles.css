@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.task-body {
+  background: #fff;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  border: 1px solid #757879;
+  border-radius: 3px;
+  padding: 0 24px 0 24px; 
+
+  width: 680px;
+  height: 50px;
+
+}
+
+.task-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 32px; 
+
+}
+
+.checkbox {
+  width: 15px;
+}
+
+.delete {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+.checked {
+  text-decoration: line-through;
+}

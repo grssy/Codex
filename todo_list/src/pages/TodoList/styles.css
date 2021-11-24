@@ -1,0 +1,40 @@
+.todo-background {
+  height: 100vh;
+  width: 100vw;
+  background: rgb(15,15,73);
+  background: linear-gradient(180deg, rgba(15,15,73,1) 1%, rgba(51,51,171,1) 25%, rgba(0,154,205,1) 87%);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.body {
+  margin: 76px 0 12px 0;
+  width: 730px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-task {
+
+  width: 100%;
+  padding: 12px 20px;
+  background: #fff;
+  border-radius: 3px 0 0px 3px;
+  border: 0px;
+
+}
+
+.add-task {
+  background-color: #1b1bc1;
+  color: white;
+  border-radius: 0 3px 3px 0;
+  border: 2px solid #1b1bc1;
+  cursor: pointer;
+
+  height: 40px;
+}
