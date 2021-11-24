@@ -2,9 +2,29 @@
 	Codex 
 </h1>
 
+
+<p align="center">
+ <a href="#-Explicação">Projeto</a> •
+ <a href="#-Funcionalidade">Legends of Runeterra</a> •
+ <a href="#-Tecnologias-e-Ferramentas">Cartas</a> • 
+</p>
+
+
 ## 💻 Explicação
 <p align="center">Resolução dos exercícios propostos para a Codex durante a realização do Summer Intership Unicamp</p>
 
+---
+
+## ⚙️ Funcionalidades
+
+Todo List -> Uma lista de tarefas desenvolvida em ReactJS utilizando um Firebase como um serviço para o backend e typescript.
+
+CNPJ Validator -> Um algoritmo feito em Java que recebe um CNPJ (formato ou apenas números) e retorna a validade desse mesmo CNPJ (true/false).
+
+Intersection -> Um algoritmo feito em Java que compara retangulos e retorna se eles possuem alguma intersecção.
+
+Area Of Intersection -> Um algoritmo em Java que ao receber dois retangulos que se interseccionam e retorna a área desta intersecção.
+	
 ---
 
 ## 🛠 Tecnologias e Ferramentas
