@@ -3,6 +3,9 @@
 </h1>
 
 
+<img src="https://saneamentobasico.com.br/wp-content/uploads/2021/04/logo-site-codex.jpg"/>
+
+
 <p align="center">
  <a href="#-Explicação">Explicação</a> •
  <a href="#-Funcionalidade">Funcionalidades</a> •
