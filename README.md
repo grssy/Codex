@@ -3,7 +3,7 @@
 </h1>
 
 
-<img src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"/>
+<img align="center" src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS"/>
 
 
 <p align="center">
