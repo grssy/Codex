@@ -4,7 +4,7 @@ package App;
 import javax.swing.JOptionPane;
 
 import Rectangle.Rectangle;
-public class App {
+public class App {  
     public static void main(String[] args) throws Exception {
         Rectangle A = new Rectangle(3, 5, 11, 11);
         Rectangle B = new Rectangle(7, 2, 13, 7);
