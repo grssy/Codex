@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Como testar a aplicação
+
+Para facilitar a resolução do exercício foi realizado o deploy desta aplicação para o seguinte domínio: https://todo-list-a506d.web.app/
+
+# Prints da utilização da aplicação
+
+<img src="./github/assets/todo_list/tela_inicial.png"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
