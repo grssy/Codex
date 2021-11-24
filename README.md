@@ -4,9 +4,9 @@
 
 
 <p align="center">
- <a href="#-Explicação">Projeto</a> •
- <a href="#-Funcionalidade">Legends of Runeterra</a> •
- <a href="#-Tecnologias-e-Ferramentas">Cartas</a> • 
+ <a href="#-Explicação">Explicação</a> •
+ <a href="#-Funcionalidade">Funcionalidades</a> •
+ <a href="#-Tecnologias-e-Ferramentas">Tecnolodias e Ferramentas</a> • 
 </p>
 
 
