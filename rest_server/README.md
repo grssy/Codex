@@ -35,6 +35,8 @@ Neste tutorial será ensinado a instalar o Yarn nos sistemas Linux, mas a instal
 
 Após a instalação das ferramentas, basta entrar na pasta do projeto rest_server e digitar os seguintes comandos:
 
+<img src="../github/assets/rest_server/pasta.png"/>
+
 1- Instalar os pacotes da node modules
 
   yarn install
@@ -43,4 +45,8 @@ Após a instalação das ferramentas, basta entrar na pasta do projeto rest_serv
 
   node server.js
   
+  <img src="../github/assets/rest_server/server.png"/>
+  
 3- Acessar o localhost:3000 e ver que a api está retornando nesta rota um JSON com o currentDateTime.
+
+<img src="../github/assets/rest_server/rota.png"/>
