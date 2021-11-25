@@ -2,8 +2,8 @@
 
  Para está aplicação é necessário que o usuário tenha instalo na sua maquina as seguintes ferramentas em sua máquina:
  
- -[NodeJS]
- -[Yarn]
+ -[NodeJS]()
+ -[Yarn]()
  
  ## Instalação do NodeJS na máquina
  
