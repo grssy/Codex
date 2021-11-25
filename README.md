@@ -35,6 +35,8 @@ Intersection -> Um algoritmo feito em Java que compara retangulos e retorna se e
 Area Of Intersection -> Um algoritmo em Java que ao receber dois retangulos que se interseccionam e retorna a área desta intersecção.
 
 Rest Client -> Uma aplicação feita em React que faz uma requisição do tipo GET para uma API que retorna a data do momento em que a requisição foi feita.
+
+Rest Server -> Uma pequena API em Node Js que entrega a data atual.
 	
 ---
 
