@@ -50,3 +50,5 @@ As seguintes ferramentas foram usadas na construção dos projetos:
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Firebase](https://firebase.google.com/)
+- [Javascript](https://www.javascript.com/)
+- [NodeJS](https://nodejs.org/en/)
