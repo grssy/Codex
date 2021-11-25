@@ -1,3 +1,10 @@
+ # Como rodar a aplicação
+ 
+ Para está aplicação é necessário que o usuário tenha instalado as seguintes ferramentas em sua máquina:
+
+ - [NodeJS]
+ - [Yarn]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
