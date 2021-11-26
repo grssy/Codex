@@ -8,3 +8,13 @@ Para tornar a execução do programa algo fácil, foi criado um executável .jar
   Nos arquivos da aplicação basta encontrar o executável .jar e clicar duas vezes nele para que o programa comece a rodar.
 </h4>
 
+<img src="../github/assets/intersection/arquivos.png" />
+
+
+<h4 align="left">
+   O resultado da intersecção do exemplo irá aparecer
+</h4>
+
+<img src="../github/assets/intersection/exemplo1.png" />
+<img src="../github/assets/intersection/exemplo2.png" />
+<img src="../github/assets/intersection/exemplo3.png" />
