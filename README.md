@@ -15,7 +15,7 @@
 <p align="center">
  <a href="#-Explicação">Explicação</a> •
  <a href="#-Funcionalidade">Funcionalidades</a> •
- <a href="#-Tecnologias-e-Ferramentas">Tecnolodias e Ferramentas</a>
+ <a href="#-Tecnologias-e-Ferramentas">Tecnologias e Ferramentas</a>
 </p>
 
 
