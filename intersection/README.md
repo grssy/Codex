@@ -17,4 +17,3 @@ Para tornar a execução do programa algo fácil, foi criado um executável .jar
 
 <img src="../github/assets/intersection/exemplo1.png" />
 <img src="../github/assets/intersection/exemplo2.png" />
-<img src="../github/assets/intersection/exemplo3.png" />
